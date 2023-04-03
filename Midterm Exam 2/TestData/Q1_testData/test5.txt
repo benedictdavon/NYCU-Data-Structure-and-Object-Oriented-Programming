@@ -1,0 +1,10 @@
+9
+ins 8
+ins 10
+ins 7
+ins 20
+ins 9
+ins 1
+ins 15
+ins 6
+pos

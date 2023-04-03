@@ -1,0 +1,12 @@
+11
+ins 9
+ins 20
+ins 6
+ins 17
+ins 38
+ins 92
+ins 41
+ins 27
+ins 56
+ins 3
+ino

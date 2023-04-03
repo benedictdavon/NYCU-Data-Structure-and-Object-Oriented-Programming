@@ -1,0 +1,14 @@
+13
+ins 6
+ins 15
+ins 13
+ins 2
+ins 50
+ins 81
+ins 35
+ins 1
+ins 14
+ins 5
+ins 12
+ins 37
+lev
