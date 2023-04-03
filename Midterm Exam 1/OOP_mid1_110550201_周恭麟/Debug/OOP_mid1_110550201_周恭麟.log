@@ -1,0 +1,14 @@
+﻿  main_Q1.cpp
+C:\Users\asus\Desktop\University\Semester 2\Data Structures and Object Oriented Programming\Midterm\midterm1_withPassword\Q1\Matrix.h(31,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asus\Desktop\University\Semester 2\Data Structures and Object Oriented Programming\Midterm\midterm1_withPassword\Q1\Matrix.h(33,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asus\Desktop\University\Semester 2\Data Structures and Object Oriented Programming\Midterm\midterm1_withPassword\Q1\main_Q1.cpp(24,32): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\asus\Desktop\University\Semester 2\Data Structures and Object Oriented Programming\Midterm\midterm1_withPassword\Q1\main_Q1.cpp(31,31): warning C4244: 'argument': conversion from 'unsigned __int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  OOP_mid1_110550201_周恭麟.vcxproj -> C:\Users\asus\Desktop\University\Semester 2\Data Structures and Object Oriented Programming\Midterm\OOP_mid1_110550201_周恭麟\Debug\OOP_mid1_110550201_周恭麟.exe
